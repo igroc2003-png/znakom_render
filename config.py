@@ -1,6 +1,6 @@
 # ================== MAX BOT ==================
 # Токен бота MAX
-TOKEN = "f9LHodD0cOJZ6sk_5Z5PC6Z8DaOABXD0qNc6x7skr3ZRV_nR4nRXrH1uIp37uEU8VqA2mS1DAzAzdk_m8iBN"
+TOKEN = "f9LHodD0cOJifvwS05WVOZ0E3rbxxlLRTt5JcHdB2ezESF1dp1N4jaNe9S5_UeZYXBcqF9KC5H8JfaUDfpeg"
 
 # ================== DATABASE ==================
 DB_PATH = "profiles.db"
