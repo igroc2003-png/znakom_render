@@ -1413,6 +1413,18 @@ def stop_buh(ctx):
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 from flask import Flask, request
 
 app = Flask(__name__)
@@ -1422,11 +1434,3 @@ def webhook():
     update = request.get_json()
     bot.process_update(update)
     return "ok"
-
-
-
-
-
-
-
-
